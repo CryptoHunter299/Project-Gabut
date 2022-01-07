@@ -1,18 +1,27 @@
 # Project-Gabut
 Kalo Gabut, Kesini Ae
+
 Lu Bisa Isi Question" Gk Jelas Gt Kalo Lu Gabut :v
+
 Yuk Jadikan Gabut mu Bermanfaat!
 
 # Cara Isi Question Di Apk Termux
 Pertama Tama, Install Apk Termux Dulu.
 
 Script :
+
 $ pkg install update
+
 $ pkg install upgrade
+
 $ pkg install php
+
 $ pkg install git
+
 $ git clone https://github.com/CryptoHunter299/Project-Gabut
+
 $ cd Project-Gabut
+
 $ php <Nama Source Code Pada Github Project Gabut>
 
 Done Deh, Tinggal Isi Questionnya Aja
