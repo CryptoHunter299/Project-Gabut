@@ -8,7 +8,7 @@ Yuk Jadikan Gabut mu Bermanfaat!
 # Cara Isi Question Di Apk Termux
 Pertama Tama, Install Apk Termux Dulu.
 
-Script :
+Script Buat Di Tempel Di Apk Termux :
 
 $ pkg install update
 
