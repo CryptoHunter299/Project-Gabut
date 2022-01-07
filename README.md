@@ -22,7 +22,7 @@ $ git clone https://github.com/CryptoHunter299/Project-Gabut
 
 $ cd Project-Gabut
 
-$ php <Nama Source Code Pada Github Project Gabut>
+$ php (Nama Source Code Pada Github Project Gabut)
 
 Done Deh, Tinggal Isi Questionnya Aja
 
