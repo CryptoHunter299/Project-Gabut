@@ -1,6 +1,7 @@
 # Project-Gabut
 Kalo Gabut, Kesini Ae
 
+# Selamat Datang <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Lu Bisa Isi Question" Gk Jelas Gt Kalo Lu Gabut :v
 
 Yuk Jadikan Gabut mu Bermanfaat!
