@@ -6,7 +6,8 @@ Lu Bisa Isi Question" Gk Jelas Gt Kalo Lu Gabut :v
 
 Yuk Jadikan Gabut mu Bermanfaat!
 
-# Cara Isi Question Di Apk Termux
+# Cara Isi Question Di Apk Termux <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
+
 Pertama Tama, Install Apk Termux Dulu.
 
 Script Buat Di Tempel Di Apk Termux :
